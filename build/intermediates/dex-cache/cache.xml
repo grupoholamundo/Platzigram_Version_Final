@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_b8440273f0ea43f7bf3198059ba31d66065f625a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9475a251067d0f1700ce16e0ccb00e9ecff183a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_e4d92881421f41f58974c0b44107bf5fff61ea7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_55546690bed774c4c20a263b8b5c456147e9ea41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_b88c9b99a92db31c84f680db21f70de77057cdd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_b5fd27c2e4c7bdc9d7ffa8bf49bba9058ba83ffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_1b81d0e47d47646570738ac20314ba6dce41a266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_93dffb6c172ae335ed4d019848021bfce03897d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="114a1947e9ddbc14c42438cb6ca1b950415a61b6">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fa012587a0862ac08148e5d6dcc0d5ac320f249e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9fac9fec216e047f2bddf86640e54f74c77cce2">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d2f2bed4bb4b71ee79ed46d01ae33ef6a0a17658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PRO2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_cde12eb87a50442f111463abac4a8f764e410c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_fd0f59459c072968529f4dc9ce86326ed260176d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.zoonref\simple-view-behavior\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zoonref-simple-view-behavior-1.0_94bd3b38fa0990eb77333020179c449efe833d93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bd99379d7106312ebe7c4b8adcb8c26662388587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_02b7ffc1277088da6232ef2e06f818276dad33a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_d1189f246d9861600a27a845b529ae1f140ed378\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8bc55a2072667aca6e84644229346d560046af0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_89fd3250bdffdb82cf0a4d6aea988c206eb78c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-2.0.2_d4196d0a0b1218af8ed9efb723e9f24dea838f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_b03d2cd1e908c5fa9f919043c596ad7b0e9704bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_75c7c9ecf61518047f7d4b85984b1ed1f3b075fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PRO2\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_bd372a9275b017d0766c7f9c45dd14840172473f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_0841d35f075d3e10fe6d38c7993ff6c01d7d1a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\LUIS\ANDROID\ver_terminada\Platzigram-1-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_26c5e7d1eaa14a5a2b283aabff3584ce256b02f8\classes.dex" />
+    </item>
+
+</items>
